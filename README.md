@@ -56,9 +56,6 @@ https://t.me/+t42gV6VSYvNmNmQ1
 ## Group Review Phỏng vấn
 https://t.me/+7Q4mCjGLykc1ZTk1
 
-## Group chém gió + giải trí giao lưu
-https://t.me/+Lm-2TQUr8To1ZDBl
-
 ## Group cho người tìm việc, việc tìm người
 https://t.me/+G3mEPzRP471kOWU1
 
