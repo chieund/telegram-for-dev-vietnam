@@ -1,4 +1,6 @@
-# Danh sách group tele cho developer ở Vietnam
+# Danh sách group telegram cho developer ở Vietnam
++ Group tele Golang Vietnam
+https://t.me/golang_vietnam_learning
 
 + Group System Design and Architecture
 https://t.me/+8tl1Bc9pIm1kMzll
@@ -42,7 +44,7 @@ https://t.me/+LKooS7Q2MWw1NTFl
 + Group Angular
 https://t.me/+xkW78JfXLwQ0OTBl
 
-+ Group .NetCore
++ Group .Net
 https://t.me/+sMJeQBLOqOJlN2Q1
 
 + Group Flutter
