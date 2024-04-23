@@ -1,5 +1,4 @@
-# telegram-for-dev-vietnam
-Danh sách group tele cho developer ở Vietnam
+# Danh sách group tele cho developer ở Vietnam
 
 + Group System Design and Architecture
 https://t.me/+8tl1Bc9pIm1kMzll
